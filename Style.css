@@ -1,4 +1,12 @@
 h1 {
 
+}
 
+
+img {
+  height: 35%;
+  width: 35%;
+}
+.RIGHT{
+  float: right;
 }
