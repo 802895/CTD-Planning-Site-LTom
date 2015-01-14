@@ -10,3 +10,10 @@ img {
 .RIGHT{
   float: right;
 }
+.Fin{
+  border: 5px red dotted;
+}
+.SB {
+  height: 40%;
+  width: 40%;
+}
