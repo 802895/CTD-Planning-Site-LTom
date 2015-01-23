@@ -26,8 +26,8 @@ img {
 
 }
 .SB2{
-  height: 75%;
-  width: 75%;
+  height: 150px;
+  width: 500px;
 }
 .DERP{
   font-size: 30px
@@ -40,8 +40,28 @@ div{
   position: absolute;
   float: right;
 
+q
+}
+
+
+.TROLL{
+
+  background-color: #b6fbeb;
+  position: fixed;
+  right: 10% ;
 
 }
+a:hover {
+  color: #ff9900;
+
+}
+a:visited {
+  color:#117000;
+}
 .BIG{
-  font-size: 20px
+  font-size: 20px;
+
+}
+div.TROLL a:visited{
+  color: none;
 }
