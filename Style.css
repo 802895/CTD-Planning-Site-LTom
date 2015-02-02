@@ -49,6 +49,8 @@ q
   background-color: #b6fbeb;
   position: fixed;
   right: 10% ;
+  margin: none;
+  boarder: none;
 
 }
 a:hover {
