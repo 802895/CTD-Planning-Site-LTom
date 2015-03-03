@@ -1,0 +1,97 @@
+<%@LANGUAGE="JAVASCRIPT" CODEPAGE="65001"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:-83px;
+	top:-52px;
+	width:1035px;
+	height:128px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:-192px;
+	top:581px;
+	width:2237px;
+	height:91px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:349px;
+	top:21px;
+	width:191px;
+	height:35px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:126px;
+	top:-36px;
+	width:182px;
+	height:50px;
+	z-index:3;
+}
+#apDiv5 {
+	position:absolute;
+	left:184px;
+	top:39px;
+	width:80px;
+	height:30px;
+	z-index:3;
+}
+#apDiv6 {
+	position:absolute;
+	left:326px;
+	top:40px;
+	width:80px;
+	height:30px;
+	z-index:4;
+}
+#apDiv7 {
+	position:absolute;
+	left:456px;
+	top:40px;
+	width:80px;
+	height:30px;
+	z-index:5;
+}
+#apDiv8 {
+	position:absolute;
+	left:1px;
+	top:1px;
+	width:70px;
+	height:64px;
+	z-index:6;
+}
+#apDiv9 {
+	position:absolute;
+	left:28px;
+	top:597px;
+	width:754px;
+	height:46px;
+	z-index:7;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv1"></div>
+<div id="apDiv2"></div>
+<div id="apDiv5">Donate</div>
+<div id="apDiv6">Prize corner</div>
+<div id="apDiv7">Set Up</div>
+<div id="apDiv8">Logo</div>
+<div id="apDiv9">Contact Number :<br />
+Email Adress :</div>
+</body>
+</html>
