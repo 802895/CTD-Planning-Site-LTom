@@ -36,7 +36,7 @@ img {
   Q
   Q
   W
-  
+
 
   Q
   Q
@@ -63,15 +63,7 @@ q
 }
 
 
-.TROLL{
 
-  background-color: #b6fbeb;
-  position: fixed;
-  right: 10% ;
-  margin: none;
-  boarder: none;
-
-}
 a:hover {
   color: #ff9900;
 
@@ -85,4 +77,20 @@ a:visited {
 }
 div.TROLL a:visited{
   color: none;
+}
+div.space {
+  width: 2000px;
+  height: 1500px;
+  position: relative;
+  border : none
+}
+.TROLL{
+
+  background-color: #b6fbeb;
+  position: fixed;
+  right: 10% ;
+  margin: none;
+  boarder: none;
+  z-index: 100;
+
 }
